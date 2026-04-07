@@ -1,0 +1,104 @@
+[
+  {
+    "playerName": "Virat Kohli",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "rating": 95,
+    "batingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "Right-Arm Medium",
+    "price": 1500000,
+    "playerImg": "https://i.ibb.co.com/SDkV2t31/Virat-Kohli.webp"
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "playerType": "Batsman",
+    "rating": 93,
+    "batingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "Right-Arm Offbreak",
+    "price": 1400000,
+    "playerImg": "https://i.ibb.co.com/0VXjWCpN/Babar-Azam.png"
+  },
+  {
+    "playerName": "Joe Root",
+    "playerCountry": "England",
+    "playerType": "Batsman",
+    "rating": 91,
+    "batingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "Right-Arm Offbreak",
+    "price": 1350000,
+    "playerImg": "https://i.ibb.co.com/WWMSkCRq/Joe-Root.jpg"
+  },
+  {
+    "playerName": "Kane Williamson",
+    "playerCountry": "New Zealand",
+    "playerType": "Batsman",
+    "rating": 92,
+    "batingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "Right-Arm Offbreak",
+    "price": 1380000,
+    "playerImg": "https://i.ibb.co.com/Zp5L79v2/Kane-Williamson.jpg"
+  },
+  {
+    "playerName": "Steve Smith",
+    "playerCountry": "Australia",
+    "playerType": "Batsman",
+    "rating": 94,
+    "batingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "Right-Arm Legbreak",
+    "price": 1450000,
+    "playerImg": "https://i.ibb.co.com/hF2szLK1/Steven-Smith.webp"
+  },
+
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-Rounder",
+    "rating": 90,
+    "batingStyle": "Left-Hand-Bat",
+    "bowlingStyle": "Left-Arm Orthodox",
+    "price": 1300000,
+    "playerImg": "https://i.ibb.co.com/FkGy7Gsr/Shakib-Al-Hasan.png"
+  },
+  {
+    "playerName": "Ben Stokes",
+    "playerCountry": "England",
+    "playerType": "All-Rounder",
+    "rating": 92,
+    "batingStyle": "Left-Hand-Bat",
+    "bowlingStyle": "Right-Arm Fast",
+    "price": 1500000,
+    "playerImg": "https://i.ibb.co.com/zhsfHsJW/Ben-Stokes.webp"
+  },
+  {
+    "playerName": "Hardik Pandya",
+    "playerCountry": "India",
+    "playerType": "All-Rounder",
+    "rating": 88,
+    "batingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "Right-Arm Medium Fast",
+    "price": 1200000,
+    "playerImg": "https://i.ibb.co.com/spYSZz01/Hardik-Pandya.webp"
+  },
+
+  {
+    "playerName": "Trent Boult",
+    "playerCountry": "New Zealand",
+    "playerType": "Bowler",
+    "rating": 89,
+    "batingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "Left-Arm Fast",
+    "price": 1100000,
+    "playerImg": "https://i.ibb.co.com/4wH80Qft/Trent-Boult.jpg"
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerCountry": "India",
+    "playerType": "Bowler",
+    "rating": 94,
+    "batingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "Right-Arm Fast",
+    "price": 1500000,
+    "playerImg": "https://i.ibb.co.com/Jw4JR1XP/Jasprit-Bumrah.webp"
+  }
+]

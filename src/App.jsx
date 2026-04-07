@@ -1,13 +1,27 @@
 
+import { Suspense } from 'react';
 import './App.css'
+import Banner from './Component/HomePages/Banner/Banner'
+import Players from './Component/HomePages/Players/Players';
+import NavBar from './Component/NavBar/NavBar'
+
+
+const fetchPlayer=async()=>{
+  const res=await fetch("/data.json");
+  return res.json();
+}
 
 function App() {
-
+const playersPromise=fetchPlayer();
 
   return (
     <>
-      <h1 className='text-6xl'>Hello</h1>
-      <button className="btn btn-error">Error</button>
+      <NavBar></NavBar>
+      <Banner></Banner>
+      <Suspense fallback={<span className="loading loading-dots loading-xl"></span>}>
+      <Players playersPromise={playersPromise}></Players>
+      </Suspense>
+        
     </>
   )
 }
